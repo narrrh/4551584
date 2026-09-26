@@ -2,6 +2,7 @@
 
 - `BPNN_LOOCV.m`: main MATLAB script.
 - `data.csv`: input data with columns stress (MPa), time (h), strain (%).
+- `wb.csv`: weights/biases
 
 ## Requirements
 
